@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Run in native host": {
+      "commandName": "Executable",
+      "executablePath": "..\\Debug\\Native.NETHostFxr.exe",
+      "workingDirectory": "..\\bin\\x64\\Debug\\"
+    }
+  }
+}
